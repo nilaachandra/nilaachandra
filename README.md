@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nilaachandra
-- 👀 I’m interested in Web Dvelopment especially Frontend Development 
+- 👀 I’m interested in Web Development especially Frontend Development 
 - 🌱 I’m currently learning and improving myself.
 - 📫 How to reach me ... via LinkedIn or via my email nilalaishram@gmail.com
 
