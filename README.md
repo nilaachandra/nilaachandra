@@ -1,5 +1,5 @@
 # Hey there, I'm Nilaa Laishram 👋
-Full Stack Developer, Freelancer and UI designer🚀 who loves to build and ship things.
+Frontend Developer, Freelancer and UI designer🚀 who loves to build and ship things.
 Once a Geology buff, now I dive into code instead of rocks. I traded fossils for frameworks and never looked back. I'm passionate about learning, especially Next.js, and love building and shipping stuffs. I'm Looking for new opportunities, freelancing & collaborations. Reach me out on Twitter. I'm super active there.
 
 ## 🌐 Socials:
